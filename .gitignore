@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# --- gerado por limpar-artefatos.sh ---
+*.db
+*.db-journal
+build/
+dist/
+*.log
+*.zip
+__pycache__/
+.env
+.env.local
+node_modules/
